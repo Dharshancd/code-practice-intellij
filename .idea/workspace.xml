@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3cc82ce-4485-45a9-8bc5-0388cb5bf856" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java-intellij.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/CommanElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/StringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/abstractkeyword/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/abstractkeyword/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/abstractkeyword/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/annotations/AnnotationPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/arrays/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/arrays/DuplicateRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/arrays/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/SortPracticeUsingSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/AvgCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/BubbleSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/DuplicateStringFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/DuplicateValueFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/IndexFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/ListComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/MaxAndMinValueFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/SecondLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/SumOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/arrays/SymbolPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/list/ArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/list/ListComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/list/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/list/StackPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/list/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/list/StudentCollectionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/list/SumOfMultipelList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/map/MapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/map/MapRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/map/interviewquestion/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/map/interviewquestion/CheckAlphabets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/set/SetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/collection/set/SetRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/enumpractice/EnumPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/exception/ExceptionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/exception/ExceptionhandlingRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/exception/InputTooLongException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/exception/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/filesandstreams/StreamsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/finalkeyword/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/finalkeyword/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/finalkeyword/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/generics/GenericPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/generics/GenericsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/serialization/SerializationPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/string/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/string/PracticeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/string/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/string/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/string/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/superkeyword/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/superkeyword/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/superkeyword/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/typecasting/TypeCastingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dharshan/wrapperclass/WrapperPractice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HGss8sW6kaU59JOJQn29mLq3x8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java Practice/core-java-intellij/src/com/dharshan/superkeyword&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java Practice\core-java-intellij\src\com\dharshan\superkeyword" />
+      <recent name="D:\Java Practice\core-java-intellij\src\com\dharshan\abstractkeyword" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnnotationPractice">
+    <configuration name="AnnotationPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dharshan.annotations.AnnotationPractice" />
+      <module name="core-java-intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dharshan.annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dharshan.arrays.Duplicate" />
+      <module name="core-java-intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dharshan.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateRemover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dharshan.arrays.DuplicateRemover" />
+      <module name="core-java-intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dharshan.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateValueFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dharshan.collection.arrays.DuplicateValueFinder" />
+      <module name="core-java-intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dharshan.collection.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dharshan.arrays.MissingNumber" />
+      <module name="core-java-intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dharshan.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnnotationPractice" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.Duplicate" />
+        <item itemvalue="Application.DuplicateValueFinder" />
+        <item itemvalue="Application.DuplicateRemover" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3cc82ce-4485-45a9-8bc5-0388cb5bf856" name="Changes" comment="" />
+      <created>1667922961179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667922961179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
